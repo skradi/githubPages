@@ -16,4 +16,6 @@ body {
 
 header {
     margin: 0 auto;
+    text-align: center;
+    color: darkred;
 }
